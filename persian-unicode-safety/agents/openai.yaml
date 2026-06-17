@@ -1,0 +1,4 @@
+interface:
+  display_name: "Persian Unicode Safety"
+  short_description: "Prevent Persian mojibake and Unicode corruption"
+  default_prompt: "Use $persian-unicode-safety to safely edit Persian text without Unicode or terminal encoding corruption."
